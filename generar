@@ -1,0 +1,2 @@
+pandoc readme.md -o output.pdf
+
